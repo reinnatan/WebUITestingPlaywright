@@ -5,3 +5,5 @@
 > run without ui `npx playwright test`
 ##
 > run with ui `npx playwright test --ui`
+##
+> Resut ![Dashboard Preview](/Result.png)
